@@ -6,11 +6,11 @@ It creates a directory called "codingbat-practice" in your Current Working Direc
 ### How to use
 ----
 Just run 
-'''console
-
+```console 
 $ pip install -r requirements.txt
-
-''' 
-in a terminal in the project directory. After that just the run the script by running '''python creator.py'''.
-
+``` 
+in a terminal in the project directory. After that just the run the script by running 
+```console
+$ python creator.py
+```
 This will create a directory called "codingbat-practice" which contains all the python files.
